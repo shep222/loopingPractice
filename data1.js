@@ -1,17 +1,17 @@
 var movies = [{
   title: "TopGun",
-  year: 1984,
+  year: 1986,
   cast: [{
     firstName: "Tom",
     lastName: "Cruise"
   },{
     firstName: "Kelly",
-    lastName: "Mcginnis"
+    lastName: "Mcgillis"
   }],
-  producer: "Bob"
+  director: "Tony Scott"
 },{
   title: "Rounders",
-  year: 1997,
+  year: 1998,
   cast: [{
     firstName: "Matt",
     lastName: "Damon"
@@ -19,5 +19,5 @@ var movies = [{
     firstName: "Edward",
     lastName: "Norton"
   }],
-  producer: "Harry"
+  producer: "John Dahl"
 }]
